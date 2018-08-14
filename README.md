@@ -1,2 +1,2 @@
 # repositories_example
-Exemplo de uso do Repository Pattern
+Este repositório visa exemplificar a utilização do padrão Unit of Work e Repository Pattern.
